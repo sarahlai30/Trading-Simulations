@@ -1,4 +1,4 @@
-# Trading-Simulations
+# Trading Simulations
 
 This repository contains multiple trading simulation projects, each focusing on different aspects of quantitative finance, risk management, and trading strategies. 
 
