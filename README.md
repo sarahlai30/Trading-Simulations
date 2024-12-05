@@ -7,6 +7,7 @@ This repository contains trading simulation projects, focusing on different aspe
 - **No Arbitrage**: The simulations assume no arbitrage opportunities in the market.
 - **Constant Risk-Free Rate**: A constant risk-free rate is assumed during the option's life for simplicity.
 - **No Dividends**: The underlying assets do not pay dividends during the life of the option.
+- **Constant Implied Volatility**
 
 ---
 
